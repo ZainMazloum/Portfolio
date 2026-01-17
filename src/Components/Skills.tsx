@@ -27,7 +27,7 @@ const SkillsData: Skill[] = [
   { id: 5, icon: <SiTailwindcss className="text-cyan-500" />, title: "Tailwind", disc: "UI Library", delay: "900", dataAos: "fade-up" },
   { id: 7, icon: <SiTypescript className="text-blue-400" />, title: "TypeScript", disc: "Safety", delay: "1300", dataAos: "fade-up" },
   { id: 8, icon: <FaGithub className="text-gray-300" />, title: "Git & GitHub", disc: "Version Control", delay: "1500", dataAos: "fade-up" },
-  { id: 9, icon: <SiNextdotjs className="text-white" />, title: "Next.js", disc: "⌛", delay: "1700", dataAos: "fade-up" },
+  { id: 9, icon: <SiNextdotjs className="text-white" />, title: "Next.js", disc: "React Framework", delay: "1700", dataAos: "fade-up" },
 ];
 
 
